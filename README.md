@@ -1,3 +1,7 @@
+
+---
+
+```markdown
 <!--
   Welcome to your GitHub Profile README!
   This file will be displayed at the top of your GitHub profile.
@@ -7,15 +11,14 @@
 <h1 align="center">Hi there, I'm William Zujkowski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-PROFILE/">LinkedIn</a> •
-  <a href="https://twitter.com/YOUR_HANDLE">Twitter</a> •
-  <a href="https://github.com/wz-gsa?tab=followers">Followers</a> 
+  <a href="https://www.linkedin.com/in/williamzujkowski">LinkedIn</a> •
+  <a href="https://github.com/wz-gsa?tab=followers">Followers</a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud%20Security-FedRAMP%20Moderate-informational?style=flat&logo=Cloudflare&color=blue" />
   <img src="https://img.shields.io/badge/Platform--as--a--Service-Cloud.gov-informational?style=flat&logo=Amazon%20AWS&color=blue" />
-  <img src="https://img.shields.io/badge/DevSecOps-Cloud%20Foundry,BOSH,Concourse-informational?style=flat&logo=Docker&color=blue" />
+  <img src="https://img.shields.io/badge/DevSecOps-Automation-informational?style=flat&logo=Docker&color=blue" />
 </p>
 
 ---
@@ -23,7 +26,7 @@
 ## About Me
 
 - :closed_lock_with_key: **Security Engineer** focusing on **cloud.gov** – a FedRAMP Moderate Platform as a Service used by the US government.
-- :satellite: Passionate about **secure-by-design** cloud architectures, and **automation**.
+- :satellite: Passionate about **secure-by-design** cloud architectures, **automation**, and building strong **CI/CD** pipelines with **GitHub Actions**, **Terraform**, and other DevSecOps tools.
 - :handshake: Love collaborating with cross-functional teams, bridging the gap between Dev, Ops, and Security.
 - :brain: Constantly learning about new threat vectors, zero-trust architectures, and container security.
 - :raised_hands: A strong believer in open-source and knowledge sharing.
@@ -35,22 +38,23 @@
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   
   <!-- DevOps Tools -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Concourse-0A2741?style=for-the-badge&logo=concourse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Foundry-FFFFFF?style=for-the-badge&logo=cloudfoundry&logoColor=blue" />
-  <img src="https://img.shields.io/badge/BOSH-003EFF?style=for-the-badge&logoColor=white" />
   
-  <!-- Cloud Platforms / Security -->
+  <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  
-  <!-- Databases & Other -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+
+  <!-- Security Tools -->
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tenable-009EC2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-E02020?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF703F?style=for-the-badge&logo=PortSwigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004080?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -71,8 +75,8 @@
 ## Current Projects
 
 - **Security Automation Pipelines**  
-  :white_check_mark: Building robust CI/CD pipelines in Concourse to automatically scan, test, and deploy secure container images to cloud.gov.
-  
+  :white_check_mark: Building robust CI/CD pipelines to automatically scan, test, and deploy secure container images.
+
 - **Zero Trust Architecture**  
   :white_check_mark: Experimenting with various open-source tools for managing identity, policy enforcement, and micro-segmentation.
 
@@ -90,3 +94,7 @@ favorite_things:
   - Mentoring and education
   - Live music and traveling
   - Reading tech blogs
+```
+
+- :blue_heart: Outside of tech, you’ll find me exploring hiking trails, reading sci-fi novels, or tinkering with Raspberry Pi home projects.
+- :speech_balloon: Always open to discussing anything DevSecOps, cloud-native best practices, or your favorite cybersecurity war stories!
