@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20Security-FedRAMP%20Moderate-informational?style=flat&logo=Cloudflare&color=blue" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-FedRAMP%20Moderate-informational?style=flat&logo=Cloudflare&color=orange" />
   <img src="https://img.shields.io/badge/Platform--as--a--Service-Cloud.gov-informational?style=flat&logo=Amazon%20AWS&color=blue" />
-  <img src="https://img.shields.io/badge/DevSecOps-Automation-informational?style=flat&logo=Docker&color=blue" />
+  <img src="https://img.shields.io/badge/DevSecOps-Automation-informational?style=flat&logo=Docker&color=pink" />
 </p>
 
 ---
