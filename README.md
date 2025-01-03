@@ -1,13 +1,4 @@
 
----
-
-```markdown
-<!--
-  Welcome to your GitHub Profile README!
-  This file will be displayed at the top of your GitHub profile.
-  Feel free to personalize it to showcase your work, interests, and personality.
--->
-
 <h1 align="center">Hi there, I'm William Zujkowski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
