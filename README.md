@@ -54,11 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wz-gsa&show_icons=true&theme=vue" alt="wz-gsa's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wz-gsa&theme=vue" alt="wz-gsa's GitHub Streak Stats" width="49%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wz-gsa&layout=compact&theme=vue" alt="Top Languages" width="49%" />
 </p>
 
 ---
