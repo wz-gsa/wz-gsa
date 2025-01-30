@@ -12,7 +12,7 @@
 ## About Me
 
 - :closed_lock_with_key: **Security Engineer** focusing on **cloud.gov** – a FedRAMP Moderate Platform as a Service used by the US government.
-- :satellite: Passionate about **secure-by-design** cloud architectures, **automation**, and building strong **CI/CD** pipelines with **GitHub Actions**, **Terraform**, and other DevSecOps tools.
+- :satellite: Passionate about **secure-by-design** cloud architectures and secuirity **automation**
 - :handshake: Love collaborating with cross-functional teams, bridging the gap between Dev, Ops, and Security.
 - :brain: Constantly learning about new threat vectors, zero-trust architectures, and container security.
 - :raised_hands: A strong believer in open-source and knowledge sharing.
