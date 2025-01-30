@@ -2,11 +2,6 @@
 <h1 align="center">Hi there, I'm William Zujkowski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/williamzujkowski">LinkedIn</a> •
-  <a href="https://github.com/wz-gsa?tab=followers">Followers</a>
-</p>
-
-<p align="center">
   <a href="https://fedramp.gov"><img src="https://img.shields.io/badge/Cloud%20Security-FedRAMP%20Moderate-informational?style=flat&logo=Cloudflare&color=orange" /></a>
   <a href="https://cloud.gov"><img src="https://img.shields.io/badge/Platform--as--a--Service-Cloud.gov-informational?style=flat&logo=Amazon%20AWS&color=blue" /></a>
   <img src="https://img.shields.io/badge/DevSecOps-Automation-informational?style=flat&logo=Docker&color=pink" />
