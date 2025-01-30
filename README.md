@@ -47,19 +47,7 @@
 
 ---
 
-## My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wz-gsa&show_icons=true&theme=vue" alt="wz-gsa's GitHub Stats" width="49%" />
-
-</p>
-
----
-
 ## Current Projects
-
-- **Security Automation Pipelines**  
-  :white_check_mark: Building robust CI/CD pipelines to automatically scan, test, and deploy secure container images.
 
 - **Zero Trust Architecture**  
   :white_check_mark: Experimenting with various open-source tools for managing identity, policy enforcement, and micro-segmentation.
