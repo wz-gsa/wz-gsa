@@ -1,43 +1,35 @@
-
-<h1 align="center">Hi there, I'm William Zujkowski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">
+  Hi there, I'm William Zujkowski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
 <p align="center">
-  <a href="https://fedramp.gov"><img src="https://img.shields.io/badge/Cloud%20Security-FedRAMP%20Moderate-informational?style=flat&logo=Cloudflare&color=orange" /></a>
-  <a href="https://cloud.gov"><img src="https://img.shields.io/badge/Platform--as--a--Service-Cloud.gov-informational?style=flat&logo=Amazon%20AWS&color=blue" /></a>
-  <img src="https://img.shields.io/badge/DevSecOps-Automation-informational?style=flat&logo=Docker&color=pink" />
+  <a href="https://fedramp.gov">
+    <img src="https://img.shields.io/badge/Cloud%20Security-FedRAMP%20Moderate-informational?style=flat&logo=Cloudflare&color=orange" alt="FedRAMP Moderate" />
+  </a>
+  <a href="https://cloud.gov">
+    <img src="https://img.shields.io/badge/Platform--as--a--Service-Cloud.gov-informational?style=flat&logo=Amazon%20AWS&color=blue" alt="Cloud.gov PaaS" />
+  </a>
+  <img src="https://img.shields.io/badge/DevSecOps-Automation-informational?style=flat&logo=Docker&color=pink" alt="DevSecOps Automation" />
 </p>
 
 ---
 
 ## About Me
 
-- :closed_lock_with_key: **Security Engineer** focusing on **cloud.gov** – a FedRAMP Moderate Platform as a Service used by the US government.
-- :satellite: Passionate about **secure-by-design** cloud architectures and security **automation**
-- :handshake: Love collaborating with cross-functional teams, bridging the gap between Dev, Ops, and Security.
-- :brain: Constantly learning about new threat vectors, zero-trust architectures, and container security.
-- :raised_hands: A strong believer in open-source and knowledge sharing.
+I'm a **Security Engineer** dedicated to building secure, resilient cloud architectures at [Cloud.gov](https://cloud.gov) – a FedRAMP Moderate Platform as a Service trusted by the US government. My passions include:
+
+- :closed_lock_with_key: **Secure-by-design** cloud architectures and robust security automation  
+- :satellite: Experimenting with zero trust strategies and emerging threat mitigation techniques  
+- :handshake: Collaborating across Dev, Ops, and Security to drive innovative solutions  
+- :brain: Continuous learning in the realms of container security and evolving threat landscapes  
+
+I'm also a strong believer in open source and community knowledge sharing.
 
 ---
-
-## Tech & Tools
-
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-  <!-- Cloud Platforms -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
-  <!-- Security Tools -->
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tenable-009EC2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-E02020?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF703F?style=for-the-badge&logo=PortSwigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004080?style=for-the-badge&logoColor=white" />
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
 ---
@@ -45,10 +37,10 @@
 ## Current Projects
 
 - **Zero Trust Architecture**  
-  :white_check_mark: Experimenting with various open-source tools for managing identity, policy enforcement, and micro-segmentation.
+  :white_check_mark: Experimenting with open-source tools for identity management, policy enforcement, and micro-segmentation to build robust zero trust networks.
 
 - **Secure Cloud Native Apps**  
-  :white_check_mark: Hardening PaaS environments through continuous compliance with FedRAMP and other frameworks.
+  :white_check_mark: Enhancing security in PaaS environments through continuous compliance with FedRAMP and industry best practices.
 
 ---
 
@@ -56,12 +48,8 @@
 
 ```yaml
 favorite_things:
-  - DevSecOps
-  - Learning new infosec tools
-  - Mentoring and education
-  - Live music and traveling
-  - Reading tech blogs
-```
-
-- :blue_heart: Outside of tech, you’ll find me exploring hiking trails, reading sci-fi novels, or tinkering with Raspberry Pi home projects.
-- :speech_balloon: Always open to discussing anything DevSecOps, cloud-native best practices, or your favorite cybersecurity war stories!
+  - DevSecOps & automation
+  - Exploring new infosec tools
+  - Mentoring & sharing knowledge
+  - Live music, hiking, and traveling
+  - Reading tech & security blogs
