@@ -1,32 +1,35 @@
 <h1 align="center">
-  Hi there, I'm William Zujkowski <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hi, I'm William Zujkowski 👋
 </h1>
 
 <p align="center">
   <a href="https://fedramp.gov">
-    <img src="https://img.shields.io/badge/Cloud%20Security-FedRAMP%20Moderate-informational?style=flat&logo=Cloudflare&color=orange" alt="FedRAMP Moderate" />
+    <img src="https://img.shields.io/badge/FedRAMP-Moderate-%23fdb81e?style=flat&logo=shield&logoColor=white" alt="FedRAMP Moderate" />
   </a>
   <a href="https://cloud.gov">
-    <img src="https://img.shields.io/badge/Platform--as--a--Service-Cloud.gov-informational?style=flat&logo=Amazon%20AWS&color=blue" alt="Cloud.gov PaaS" />
+    <img src="https://img.shields.io/badge/PaaS-Cloud.gov-%230071bc?style=flat&logo=cloud&logoColor=white" alt="Cloud.gov PaaS" />
   </a>
-  <img src="https://img.shields.io/badge/DevSecOps-Automation-informational?style=flat&logo=Docker&color=pink" alt="DevSecOps Automation" />
+  <img src="https://img.shields.io/badge/DevSecOps-Automation-%235b116b?style=flat&logo=terminal&logoColor=white" alt="DevSecOps Automation" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a **Security Engineer** dedicated to building secure, resilient cloud architectures at [Cloud.gov](https://cloud.gov) – a FedRAMP Moderate Platform as a Service trusted by the US government. My passions include:
+I’m a **Security Engineer** with [Cloud.gov](https://cloud.gov), a FedRAMP Moderate Platform as a Service trusted by federal agencies.  
 
-- :closed_lock_with_key: **Secure-by-design** cloud architectures and robust security automation  
-- :satellite: Experimenting with zero trust strategies and emerging threat mitigation techniques  
-- :handshake: Collaborating across Dev, Ops, and Security to drive innovative solutions  
-- :brain: Continuous learning in the realms of container security and evolving threat landscapes  
+My work focuses on:
 
-I'm also a strong believer in open source and community knowledge sharing.
+- 🔐 **Secure-by-design** cloud architectures  
+- 🌐 Exploring **Zero Trust** strategies for federal environments  
+- 🤝 Building bridges between Dev, Sec, and Ops teams  
+- 📚 Continuous learning and community knowledge-sharing  
+
+I believe in open source and making security accessible and transparent.
 
 ---
-### Programming Languages
+
+## Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -36,20 +39,22 @@ I'm also a strong believer in open source and community knowledge sharing.
 
 ## Current Projects
 
-- **Zero Trust Architecture**  
-  :white_check_mark: Experimenting with open-source tools for identity management, policy enforcement, and micro-segmentation to build robust zero trust networks.
+- **Zero Trust Approaches**  
+  Exploring principles for identity-centric access and fine-grained controls in cloud platforms.  
 
-- **Secure Cloud Native Apps**  
-  :white_check_mark: Enhancing security in PaaS environments through continuous compliance with FedRAMP and industry best practices.
+- **Security Automation**  
+  Promoting compliance-as-code and continuous monitoring to support resilient government systems.  
 
 ---
 
 ## A Little More About Me
 
 ```yaml
-favorite_things:
+interests:
   - DevSecOps & automation
   - Exploring new infosec tools
-  - Mentoring & sharing knowledge
-  - Live music, hiking, and traveling
+  - Knowledge sharing & mentorship
   - Reading tech & security blogs
+  - Time outdoors (hiking, travel)
+````
+
