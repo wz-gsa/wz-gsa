@@ -19,10 +19,10 @@
 Senior Security Engineer at [Cloud.gov](https://cloud.gov), a FedRAMP Moderate
 Platform-as-a-Service for federal agencies.
 
-My primary mission is **security and risk mitigation for Cloud.gov** — protecting
-a platform that federal agencies depend on.
+I work on **security and risk mitigation for Cloud.gov**, a platform federal
+agencies rely on.
 
-To accelerate that mission, I build **practical agentic-AI tooling and
+To accelerate that work, I build **practical agentic-AI tooling and
 instructions** that give senior engineers a safe, fast path to do more: guardrails,
 sandbox isolation, least-privilege credentials, and compliance-as-code baked into
 the tools they already use — so development, operations, and security teams can
@@ -72,3 +72,4 @@ focus:
   - Safe execution environments for agentic AI (sandbox isolation, least privilege)
   - Federal AI guidance turned into compliance-as-code
   - Helping dev / ops / security teams keep pace with AI-era threats
+```
